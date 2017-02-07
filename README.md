@@ -1,9 +1,9 @@
 #SimpleQTCentOSUI
 ## 
-[1](png1.png)
-[2](png2.png)
-[3](png3.png)
-[4](png4.png)
+![1](png1.png)
+![2](png2.png)
+![3](png3.png)
+![4](png4.png)
 
 ## 说明
 - 窗口默认大小为800 x 600，同时最小也是800 x 600
